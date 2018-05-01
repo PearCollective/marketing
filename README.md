@@ -1,11 +1,11 @@
-# Marketing:
-Website for the pear collective marketing
+# Pear Collective Marketing:
 
-#Mission:
+
+## Mission:
 Save the World
 
-#Values:
+## Values:
 The world is worth saving.  So are whales.  
 
-#Values:
+## Values:
 We admire the work of others.  Looking to collaborate with business and technical teams, we look forward to creating value added products.  As a resource to generate revenue with marketing, improved user experience, and technology we can 
